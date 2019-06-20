@@ -6,7 +6,7 @@ class Home extends React.Component {
         return (
             <h1 className="text-center">Properties</h1>
         );
-    }
+    };
 }
 
 export default Home;
